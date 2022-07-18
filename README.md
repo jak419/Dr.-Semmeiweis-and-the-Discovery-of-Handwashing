@@ -1,1 +1,2 @@
-# Dr.-Semmeiweis-and-the-Discovery-of-Handwashing
+# Hypothesis Testing in Python : Dr.-Semmeiweis-and-the-Discovery-of-Handwashing
+This is a project investigates the cause of childbed fever which was a deadly disease by in the 19th century by Dr. Semmelweis. Dr Semmelweis hypothesized that ineffective handwashing led to higher death rate of mothers at birth. This project tests this hypothesis using data visualization methods, matplotlib, and testing the hypothesis using the bootstrap method.
